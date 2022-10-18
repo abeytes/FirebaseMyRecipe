@@ -1,0 +1,8 @@
+.recipe-wrapper{
+    text-align: center;
+    margin-top:30px;
+}
+
+.recipe-wrapper ol{   
+    display:inline-block;
+}

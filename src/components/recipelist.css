@@ -1,0 +1,38 @@
+.wrapper{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+    max-width:1200px;
+    margin:40px auto;
+}
+.card-container {
+    background-color: white;
+    color: goldenrod;
+    padding: 10px auto;
+    box-shadow: 3px 3px 8px grey;
+    width:90%;
+    transition: 1s ease;
+}
+.recipe-link{
+    margin:20px auto 0 auto;
+    border-radius: 10px;
+    background: goldenrod;
+    padding:3px;  
+    color:white;
+    text-align: center;
+
+}
+.recipe-link a{
+      text-decoration: none;
+     
+}
+.card-container:hover{
+   transform: scale(1,1.05);
+}
+.deletsvg{
+    position: relative;
+    left:10px;
+    top:10px;
+    cursor: pointer;
+    filter: invert(60%);
+}

@@ -1,0 +1,16 @@
+/* .home-wrapper{
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    max-width: 90vw;
+    flex-wrap:wrap ;
+    margin:auto;
+
+} */
+.card-container{
+    background-color: white;
+    color:goldenrod;
+    margin: 5px auto;
+    padding: 10px;
+   box-shadow: 3px 3px 8px grey;
+}

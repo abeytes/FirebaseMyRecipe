@@ -1,0 +1,28 @@
+.create{
+	background: #EEE;
+	width:500px;
+	height: auto;
+	text-align: center;
+	margin: 50px auto;
+	padding:20px;
+	border-radius: 20px;
+	cursor: pointer;
+}
+.forms > * {
+    margin-top: 30px;
+}
+
+.btn{
+	padding:10px 20px;
+	color:white;
+	background: goldenrod;
+	border:none;
+	border-radius: 10px;
+}
+.ingridentAdd {
+    display:flex;
+}
+.List{
+    text-align: start;
+    margin: 10px 0;
+}
