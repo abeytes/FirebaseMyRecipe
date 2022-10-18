@@ -1,4 +1,4 @@
-import untitled2 from '../image/untitled2.svg'
+import untitled2 from '../image/Untitled2.svg'
 import {Link} from "react-router-dom"
 import './nav.css'
 
